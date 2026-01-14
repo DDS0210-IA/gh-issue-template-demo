@@ -1,11 +1,10 @@
-name: Bug
-description: File a bug
+name: Feature modification request
+description: request a feature modification
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
   - octocat
-type: bug
 body:
   - type: markdown
     attributes:
